@@ -7,5 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public title: string = 'Main branch 1';
-  public title1: string = 'Main branch 1';
 }
