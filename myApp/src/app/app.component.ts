@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  public title: string = 'Main branch 1';
+  public title: string = 'Main branch';
   public header: string = 'Git Merging';
 }
