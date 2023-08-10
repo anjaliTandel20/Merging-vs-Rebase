@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public title: string = 'Main branch 1';
+  public header: string = 'Git merge';
 }
