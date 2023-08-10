@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
   public title: string = 'Main branch';
-  public header: string = 'Git Merging';
+  public header: string = 'Git Rebasing';
 }
